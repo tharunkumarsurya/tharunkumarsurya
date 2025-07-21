@@ -205,7 +205,7 @@
   </a>
 
   <!-- repo 4 -->
-  <a align="right" href="https://github.com/tharunkumarsurya/Disny-clone.git" title="Disny+ clone">
+  <a align="right" href="https://github.com/tharunkumarsurya/Disny-clone.git" title="Disny-clone">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=Disny+ clone&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=Disny+ clone&theme=graywhite&border_radius=10" />
