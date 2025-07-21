@@ -130,32 +130,23 @@
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact&theme=radical" 
        alt="tharunkumarsurya" />
-</p>
+##</p>
 
 
-=====================================================================
+
 
 <!-- GitHub Stats (Dark Theme) -->
 <p align="center">
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en&theme=radical" 
        alt="tharunkumarsurya" />
-</p>
-=====================================================================<br />
+##</p>
+
 <br />
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=radical&border_radius=5" alt="tharunkumarsurya GitHub Streak"/>
-</p>
+##</p>
 
-
-=====================================================================<br />
-
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src=""C:\Users\tharu\OneDrive\Pictures\Screenshots\Screenshot 2025-07-21 174637.png"" width="750" alt="#" />
-  <br><br>
-</p>
 
 
 
