@@ -141,7 +141,7 @@
        alt="tharunkumarsurya" />
 </p>
 ==========================================================================================
-
+<br />
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=radical&border_radius=5" alt="tharunkumarsurya GitHub Streak"/>
 </p>
