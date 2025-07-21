@@ -118,22 +118,7 @@
 </p>
 <br />
 
-<!-- deployment -->
-<h3 align="center">Deployment</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
-          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
-        </picture>
-  </a>
-<br />
-<a href="https://www.logalert.app">
-  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
-</a>
-</p>
-<hr />
+
 
 <!-- snake graph -->
 <div align="center">
