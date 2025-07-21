@@ -139,9 +139,11 @@
 </p>
 
 <p align="center">
-  <img align="center" 
-       src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=radical" 
-       alt="tharunkumarsurya" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkumarsurya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
