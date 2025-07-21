@@ -118,7 +118,7 @@
   <hr />
 
 <!-- stats -->
-<h2 align="center">⚡ Status ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 
 
 
@@ -126,7 +126,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en" alt="tharunkumarsurya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=entbappy&" alt="entbappy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&" alt="tharunkumarsurya" /></p>
 
 
 
