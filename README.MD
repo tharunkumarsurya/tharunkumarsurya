@@ -143,11 +143,6 @@
        src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=dark" 
        alt="tharunkumarsurya" />
 </p>
-<p align="center">
-<img align="center"
-    src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=dark"
-    alt="tharunkumarsurya" />
-</p>
 
 
 
