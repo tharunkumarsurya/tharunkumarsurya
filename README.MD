@@ -175,7 +175,7 @@
 <!-- first row -->
 <div width="100%" align="center">
   <!-- repo 1 -->
-  <a align="right" href="https://github.com/tharunkumarsurya/mywebsite.git" title="3D-Portfolio-mywebsite">
+  <a align="right" href="https://github.com/tharunkumarsurya/mywebsite.git" title="mywebsite">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=mywebsite&theme=react&border_color=61dafb&border_radius=10.0" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=mywebite&theme=graywhite&border_radius=10.0" />
@@ -205,11 +205,11 @@
   </a>
 
   <!-- repo 4 -->
-  <a align="right" href="https://github.com/sanidhyy/brainwave" title="Brainwave SaaS Landing Page">
+  <a align="right" href="https://github.com/tharunkumarsurya/Disny-clone.git" title="Disny+ clone">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - Brainwave SaaS Landing Page" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=Disny+ clone&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=Disny+ clone&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" alt="tharunkumarsurya's repository stats - Disny+ clone" />
     </picture>
   </a>
 </div>
