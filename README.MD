@@ -131,18 +131,21 @@
        alt="tharunkumarsurya" />
 </p>
 
+
+==========================================================================================
 <!-- GitHub Stats (Dark Theme) -->
 <p align="center">
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en&theme=radical" 
        alt="tharunkumarsurya" />
 </p>
-
+==========================================================================================
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=radical&border_radius=5" alt="tharunkumarsurya GitHub Streak"/>
 </p>
 
 
+==========================================================================================
 
 
 
@@ -157,7 +160,7 @@
 
 
 <br /><br /><br /><br />
-<br /><br /><br /><br />
+
   <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
