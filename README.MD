@@ -41,11 +41,19 @@
 
 <hr />
 
+<p align="center">
+  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/raw/main/assets/tharun%27s_resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume PDF">
+  </a>
+</p>
+
+
 
 
 <br />
 <!-- about me -->
 <p align="center">
+
   Hi, I'm Tharun Kumar R G, Web Developer/Coder/Data Scientist/ Python Programmer/ UI/UX Designer/AWS Cloud 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
   <br />
   <br />
