@@ -24,14 +24,39 @@
 
 <!-- social handles -->
 <div align="center"> 
-<!-- youtube -->
-  <a href="https://www.youtube.com/@OPGAMER." target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <!-- twitter -->
-  <a href="https://twitter.com/technicalshubam" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+<!-- insta -->
+<a href="https://www.instagram.com/mr___suryx_____unofficixl/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+  <!-- whatsapp -->
+<a href="https://wa.me/6366598233" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
   <!-- gmail -->
-  <a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/sanidhyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:tharunkumarrg2002@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+ 
+<!-- facebook -->
+
+<a href="https://www.facebook.com/Tharun Kumar Surya" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+
+
+<!-- linkedin -->
+
+<a href="https://www.linkedin.com/in/Tharun Kumar R G/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+<!-- portfolio -->
+ <a href="https://tharunsuryaportfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
 </div>
 
 <hr />
