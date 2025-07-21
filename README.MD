@@ -118,18 +118,20 @@
   <hr />
 
 <!-- stats -->
+<!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align=center>
+<!-- first row -->
   <div align=center>
+  <!-- streak stats -->
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.vercel.app/?user=tharunkumarsurya&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.vercel.app/?user=tharunkumarsurya&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats.vercel.app/?user=tharunkumarsurya&theme=default&border=61dafb" alt="tharunkumarsurya's streak stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sanidhyy&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sanidhyy&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=sanidhyy&theme=default&border=61dafb" alt="sanidhyy's streak stats" />
       </picture>
     </a>
-</p>
 
   <!-- github stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
