@@ -143,9 +143,10 @@
        src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=dark" 
        alt="tharunkumarsurya" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tharunkumarsurya&theme=dark" alt="tharunkumarsurya" />
+<img align="center"
+    src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=dark"
+    alt="tharunkumarsurya" />
 </p>
 
 
