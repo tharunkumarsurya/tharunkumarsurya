@@ -258,7 +258,7 @@
 
 <!-- spaces -->
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br />
 
 <!-- show more repos -->
 <p align="center">
