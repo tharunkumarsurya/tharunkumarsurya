@@ -8,14 +8,36 @@
   </a>
 </h1>
 
-<div align="center">
-[![GitHub stars](https://img.shields.io/github/stars/tharunkumarsurya/github-profile-readme-generator?style=social)](https://github.com/tharunkumarsurya/github-profile-readme-generator/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/tharunkumarsurya/github-profile-readme-generator?style=social)](https://github.com/tharunkumarsurya/github-profile-readme-generator/network)
-[![GitHub issues](https://img.shields.io/github/issues/tharunkumarsurya/github-profile-readme-generator)](https://github.com/tharunkumarsurya/github-profile-readme-generator/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/tharunkumarsurya/github-profile-readme-generator?color=blue)](https://github.com/tharunkumarsurya/github-profile-readme-generator/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/tharunkumarsurya/github-profile-readme-generator)](https://github.com/tharunkumarsurya/github-profile-readme-generator/commits)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=flat-square&logo=github)](https://github.com/sponsors/tharunkumarsurya)
-</div>
+
+<p align="center">
+  
+  <a href="https://github.com/tharunkumarsurya/github-profile-readme-generator/stargazers">
+    <img src="https://img.shields.io/github/stars/tharunkumarsurya/github-profile-readme-generator?style=social" alt="GitHub stars" />
+  </a>
+  
+  <a href="https://github.com/tharunkumarsurya/github-profile-readme-generator/network">
+    <img src="https://img.shields.io/github/forks/tharunkumarsurya/github-profile-readme-generator?style=social" alt="GitHub forks" />
+  </a>
+  
+  <a href="https://github.com/tharunkumarsurya/github-profile-readme-generator/issues">
+    <img src="https://img.shields.io/github/issues/tharunkumarsurya/github-profile-readme-generator" alt="GitHub issues" />
+  </a>
+  
+  <a href="https://github.com/tharunkumarsurya/github-profile-readme-generator/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/tharunkumarsurya/github-profile-readme-generator?color=blue" alt="GitHub contributors" />
+  </a>
+  
+  <a href="https://github.com/tharunkumarsurya/github-profile-readme-generator/commits">
+    <img src="https://img.shields.io/github/last-commit/tharunkumarsurya/github-profile-readme-generator" alt="Last Commit" />
+  </a>
+  
+  <a href="https://github.com/sponsors/tharunkumarsurya">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=flat-square&logo=github" alt="Sponsor" />
+  </a>
+
+</p>
+
+
 
 <hr />
 
