@@ -122,7 +122,7 @@
 <!-- stats -->
 
 
-
+<div align="center">
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <!-- GitHub Top Languages (Dark Theme) -->
@@ -131,21 +131,26 @@
        src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact&theme=radical" 
        alt="tharunkumarsurya" />
 </p>
+</div>
 
 
-
-
+<div align="center">
 <!-- GitHub Stats (Dark Theme) -->
 <p align="center">
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en&theme=radical" 
        alt="tharunkumarsurya" />
 </p>
+</div>
 
-<br />
+<div align="center">
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=radical&border_radius=5" alt="tharunkumarsurya GitHub Streak"/>
 </p>
+
+</div>
 <hr />
 
 
@@ -163,6 +168,7 @@
 
 <br /><br /><br />
 
+<div align="center">
   <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
@@ -172,6 +178,7 @@
     </picture>
   </a>
 </p>
+</div>
 
 <hr />
 
