@@ -122,11 +122,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact" alt="tharunkumarsurya &theme=react-dark" &theme=react-dark/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact" alt="tharunkumarsurya" &theme=react-dark/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en" alt="tharunkumarsurya &theme=react-dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en" alt="tharunkumarsurya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&" alt="tharunkumarsurya &theme=react-dark" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&" alt="tharunkumarsurya" /></p>
 
 
 
@@ -146,7 +146,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tharunkumarsurya&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharunkumarsurya&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="tharunkumarsurya contribution graph" />
     </picture>
   </a>
 </p>
