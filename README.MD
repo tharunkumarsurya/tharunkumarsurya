@@ -144,6 +144,13 @@
        alt="tharunkumarsurya" />
 </p>
 
+<!-- GitHub Stats (Dark Theme) -->
+<p align="center">
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?username=tharunkumarsurya&show_icons=true&locale=en&theme=radical" 
+       alt="tharunkumarsurya" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=dark" alt="tharunkumarsurya" />
