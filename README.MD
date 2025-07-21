@@ -260,7 +260,7 @@
 
 <br /><br /><br />
 <br /><br /><br />
-<br /><br /><br />
+
 
 <!-- show more repos -->
 <p align="center">
@@ -270,7 +270,6 @@
 </p>
 
 
-<br />
 <br />
 <br />
 <hr />
