@@ -138,7 +138,12 @@
        alt="tharunkumarsurya" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&" alt="tharunkumarsurya" />Tharun</p>
+<p align="center">
+  <img align="center" 
+       src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=radical" 
+       alt="tharunkumarsurya" />
+</p>
+
 
 
 
