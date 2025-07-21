@@ -268,11 +268,21 @@
 </p>
 
 
+<br />
+<br />
+<br />
+<hr />
+
+<p align="center">
+  <a href="https://tharunsuryaportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%91%89%20Visit%20My%20Portfolio%20%F0%9F%91%88-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github.com/tharunkumarsurya/tharunkumarsurya/blob/main/assets/Screenshot 2025-07-21 174637.png?raw=true" alt="My Screenshot" width="600">
 </p>
-
+<hr />
 
 
 
