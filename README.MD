@@ -148,7 +148,7 @@
 <!-- GitHub Streak (Dark Theme) -->
 <p align="center">
   <img align="center" 
-       src="https://github-readme-streak-stats.vercel.app?user=tharunkumarsurya&theme=dark" 
+       src="https://github-readme-streak-stats.vercel.app/api?user=tharunkumarsurya&theme=dark" 
        alt="tharunkumarsurya" />
 </p>
 
