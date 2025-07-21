@@ -151,6 +151,13 @@
        src="https://github-readme-streak-stats.vercel.app/api?user=tharunkumarsurya&theme=dark" 
        alt="tharunkumarsurya" />
 </p>
+<!-- GitHub Streak (Dark Theme - Alternative Link) -->
+<p align="center">
+  <img align="center" 
+       src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=dark" 
+       alt="tharunkumarsurya" />
+</p>
+
 
 
 
