@@ -11,14 +11,14 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Tharun Kumar R G, Web Developer/Coder/Data Scientist/ Python Programmer/ UI/UX Designer/AWS Cloud 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎓 Currently Pursuing Master of Computer Application (MCA).
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  🧑‍💼 I’m currently a freelancer working as a Python developer.
   <br />
 </p>
 
