@@ -130,7 +130,7 @@
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact&theme=radical" 
        alt="tharunkumarsurya" />
-##</p>
+</p>
 
 
 
@@ -140,12 +140,13 @@
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en&theme=radical" 
        alt="tharunkumarsurya" />
-##</p>
+</p>
 
 <br />
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=radical&border_radius=5" alt="tharunkumarsurya GitHub Streak"/>
-##</p>
+</p>
+<hr />
 
 
 
