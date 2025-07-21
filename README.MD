@@ -261,14 +261,11 @@
 <br /><br /><br /><br /><br /><br />
 
 <!-- show more repos -->
-<h4 align="center">
-  <a href="https://github.com/tharunkumarsurya?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
 <p align="center">
   <a href="https://github.com/tharunkumarsurya?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Show%20More%20Repositories-39FF14?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Show%20More%20Repositories-00BFFF?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
+
 
 
