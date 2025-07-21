@@ -144,7 +144,7 @@
        alt="tharunkumarsurya" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&show_icons=true&locale=en&theme=radical" alt="tharunkumarsurya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=entbappy&" alt="entbappy" /></p>
 
 
 
