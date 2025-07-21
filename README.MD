@@ -122,7 +122,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact" alt="tharunkumarsurya &theme=react-dark" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact" alt="tharunkumarsurya &theme=react-dark" &theme=react-dark/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en" alt="tharunkumarsurya &theme=react-dark" /></p>
 
