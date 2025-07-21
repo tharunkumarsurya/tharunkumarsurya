@@ -42,8 +42,8 @@
 <hr />
 
 <p align="center">
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/raw/main/assets/tharun's_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume PDF">
+  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/blob/main/assets/tharun's_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="View Resume PDF">
   </a>
 </p>
 
