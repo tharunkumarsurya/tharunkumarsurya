@@ -122,11 +122,35 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact" alt="tharunkumarsurya" &theme=react-dark/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact" alt="tharunkumarsurya"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en" alt="tharunkumarsurya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&" alt="tharunkumarsurya" /></p>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<!-- GitHub Top Languages (Dark Theme) -->
+<p align="center">
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact&theme=radical" 
+       alt="tharunkumarsurya" />
+</p>
+
+<!-- GitHub Stats (Dark Theme) -->
+<p align="center">
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en&theme=radical" 
+       alt="tharunkumarsurya" />
+</p>
+
+<!-- GitHub Streak (Dark Theme) -->
+<p align="center">
+  <img align="center" 
+       src="https://github-readme-streak-stats.vercel.app?user=tharunkumarsurya&theme=dark" 
+       alt="tharunkumarsurya" />
+</p>
 
 
 
