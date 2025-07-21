@@ -263,7 +263,7 @@
 <!-- show more repos -->
 <p align="center">
   <a href="https://github.com/tharunkumarsurya?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Show%20More%20Repositories-dark?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Show%20More%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
