@@ -157,12 +157,13 @@
 <div align="center">
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<!-- GitHub Top Languages (Dark Theme) -->
-<p align="center">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&show_icons=true&locale=en&layout=compact&theme=radical" 
-       alt="tharunkumarsurya" />
-</p>
+<!-- GitHub Top Languages (Green Theme) -->
+<div align="center">
+  <p align="center">
+    <img align="center" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&layout=compact&theme=default&title_color=00ff00&text_color=00cc00&bg_color=0d1117" 
+         alt="tharunkumarsurya" />
+  </p>
 </div>
 
 
