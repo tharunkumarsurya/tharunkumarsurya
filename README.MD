@@ -166,16 +166,19 @@
 
 
 
-<div align="center">
-  <h2>🟡 Pac-Man eating my contribution dots 🟡</h2>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 12px;">
+  <h2 style="color: #facc15;">🟡 Pac-Man eating my contribution dots 🟡</h2>
   <br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
-</picture>
-
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
+    <img 
+      src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg" 
+      alt="Pac-Man Contribution Graph" 
+      width="800" 
+      style="border: 2px solid #facc15; border-radius: 10px;" 
+    />
+  </picture>
 </div>
 
 
