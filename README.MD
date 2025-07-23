@@ -209,9 +209,8 @@
 <div align="center">
 
   <p align="center" style="background-color: dark; padding: 10px; border-radius: 15px; display: inline-block; box-shadow: 0 0 15px rgba(255,255,255,0.5);">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=github-dark&hide_border=false&border_radius=5" 
-      alt="tharunkumarsurya GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=github-dark" alt="tharunkumarsurya GitHub Streak" />
+
   </p>
 
 </div>
