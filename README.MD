@@ -174,11 +174,11 @@
   />
 
   <!-- Optional fallback dark version below, only if needed -->
-  <!-- <img 
+   <img 
     src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph-dark.svg" 
     alt="Pac-Man Contribution Graph Dark" 
     width="800"
-  /> -->
+  /> 
 
 </div>
 
