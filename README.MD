@@ -1,6 +1,7 @@
 <hr />
-![banner](https://github.com/tharunkumarsurya/tharunkumarsurya/blob/main/assets/banner.png)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/main/assets/banner.png" alt="Tharun Kumar Banner" />
+</div>
 
 
 <hr />
