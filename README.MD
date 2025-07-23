@@ -190,16 +190,16 @@
 </p>
 </div>
 
-
 <div align="center">
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=github-dark&border_radius=5" 
-    alt="tharunkumarsurya GitHub Streak" />
-</p>
+  <p align="center">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=github-dark&hide_border=false&border_radius=5" 
+      alt="tharunkumarsurya GitHub Streak" />
+  </p>
 
 </div>
+
 
 
 
