@@ -169,17 +169,13 @@
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 12px;">
   <h2 style="color: #facc15;">🟡 Pac-Man eating my contribution dots 🟡</h2>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
-    <img 
-      src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg" 
-      alt="Pac-Man Contribution Graph (coming soon)" 
-      width="800" 
-      style="border: 2px solid #facc15; border-radius: 10px;" 
-      onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200/0d1117/facc15?text=Pac-Man+Graph+Coming+Soon';"
-    />
-  </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 </div>
 
 
