@@ -167,12 +167,6 @@
   <h2>🟡 Pac-Man eating my contribution dots 🟡</h2>
   <br />
 
-  <img 
-    src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg" 
-    alt="Pac-Man Contribution Graph" 
-    width="800"
-  />
-
   <!-- Optional fallback dark version below, only if needed -->
    <img 
     src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph-dark.svg" 
