@@ -177,10 +177,11 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="🔥 tharunkumarsurya's GitHub Streak 🔥"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=dark&hide_border=false&border_radius=10" 
+    alt="tharunkumarsurya's GitHub Streak"
   />
 </p>
+
 
 </div>
 <hr />
