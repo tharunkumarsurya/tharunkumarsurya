@@ -174,8 +174,11 @@
 
 <div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=github-dark" alt="tharunkumarsurya" /></p>
-
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=github-dark&border_radius=5" 
+    alt="tharunkumarsurya GitHub Streak" />
+</p>
 
 
 </div>
