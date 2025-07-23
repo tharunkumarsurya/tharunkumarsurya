@@ -163,18 +163,17 @@
 
   <hr />
 
-<div align="center">
-  <h2>🟡 Pac-Man eating my contribution dots 🟡</h2>
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
+  <h2 style="color: #facc15;">🟡 Pac-Man eating my contribution dots 🟡</h2>
   <br />
 
-  <!-- Optional fallback dark version below, only if needed -->
-   <img 
+  <img 
     src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph-dark.svg" 
     alt="Pac-Man Contribution Graph Dark" 
     width="800"
-  /> 
-
+  />
 </div>
+
 
 
 
