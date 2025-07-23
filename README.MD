@@ -167,13 +167,14 @@
 
 
 <div align="center">
-<!-- GitHub Stats (Dark Theme) -->
+<!-- GitHub Stats (Green Theme) -->
 <p align="center">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en&theme=radical" 
+       src="https://github-readme-stats.vercel.app/api?username=tharunkumarsurya&show_icons=true&locale=en&theme=chartreuse-dark" 
        alt="tharunkumarsurya" />
 </p>
 </div>
+
 
 <div align="center">
 
