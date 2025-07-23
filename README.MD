@@ -168,19 +168,13 @@
 
 <div align="center">
   <h2>🟡 Pac-Man eating my contribution dots 🟡</h2>
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
-
-<div align="center">
-  <h2>🟡 Pac‑Man eating my contribution dots 🟡</h2>
-  <br />
-  <img width="800" alt="Pac-Man animation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjE1MCIgdmlld0JveD0iMCAwIDgwMCAxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxNTAiIGZpbGw9IiMwZDExMTciIC8+CiAgPGRlZnM+CiAgICA8YW5pbWF0ZUJ1Z2dpbmcgYXR0cmlidXRlTmFtZT0icG9zaXRpb24iIHR5cGU9InF1YW50aXRhdGlvbiIgZHVyPSIycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIHZhbHVlcz0iMCAwOzYwIDM7MTIwIDM7MTgwIDM7MjQwIDM7MzAwIDM7MzYwIDM7NDAwIDM7NDYwIDM7NTIwIDM7NTgwIDM7NjQwIDM7NzAwIDM7NzYwIDM7ODIwIDM7ODgwIDM7OTQwIDM7MTAwMCAzIiAvPgogIDwvZGVmcz4KICA8dGV4dCB4PSIwIiB5PSI5MCIgZmlsbD0iI2ZhY2MxNSIgc3R5bGU9ImZvbnQ6IDMycHggTWFjcm9uOyI+CiAgICA8dGV4dCB4PSIwIiB5PSI5MCIgZmlsdGVyPSJ1cmwoI2J1Z2dpbmcpIj5⟨PAC‑MAN⟩IG9ub2ZmdD08L3RleHQ+CiAgICA8ZmlsdGVyIGlkPSJidWdn aW5nIiB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAiPgoJICAgIDxmZXRjaCB0eXBlPSJ0dXJidWxlbmNlciIgYXR0cj0ic2hhZG93IiBzdGREZXZpYXRpb249IjAgMCAwIDAiIC8+CiAgICA8L2ZpbHRlcj4KICA8L3RleHQ+Cjwvc3ZnPg==" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-pacman.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-pacman.svg" />
+  </picture>
 </div>
 
-</picture>
-</div>
 
 
 
