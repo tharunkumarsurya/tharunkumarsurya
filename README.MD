@@ -53,7 +53,7 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/tharunkumarsurya/tharunkumarsurya/stargazers">
+<a href="https://github.com/tharunkumarsurya/tharunkumarsurya/github-stats">
   <img src="https://github.com/tharunkumarsurya/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Tharun Kumar's GitHub Stats" />
   <img src="https://github.com/tharunkumarsurya/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Tharun Kumar's Top Languages" />
 </a>
