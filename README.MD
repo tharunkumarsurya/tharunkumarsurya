@@ -1,3 +1,14 @@
+<hr />
+<div align="center">
+  <img src="https://github.com/tharunkumarsurya/tharunkumarsurya/blob/main/assets/banner.png" alt="Banner" />
+</div>
+
+
+<hr />
+
+
+
+
 <!-- profile view count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=tharunkumarsurya">
 
