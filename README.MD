@@ -183,11 +183,12 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=green-nur&border_radius=5" 
+    src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=github-dark&border_radius=5" 
     alt="tharunkumarsurya GitHub Streak" />
 </p>
 
 </div>
+
 
 
 <hr />
