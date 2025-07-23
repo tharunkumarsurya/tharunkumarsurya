@@ -177,8 +177,7 @@
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=github-dark&hide_border=false&border_radius=10" 
-    alt="tharunkumarsurya's GitHub Streak"
-  />
+    alt="tharunkumarsurya's GitHub Streak"/>
 </p>
 
 
