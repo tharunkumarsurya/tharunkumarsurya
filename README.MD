@@ -180,6 +180,7 @@
 
 <div align="center">
 <h2 align="center">⚡ Stats ⚡</h2>
+<br />
 
 <!-- GitHub Top Languages (Green Theme) -->
 <div align="center">
@@ -189,6 +190,7 @@
          alt="tharunkumarsurya" />
   </p>
 </div>
+<br />
 
 
 
@@ -212,7 +214,7 @@
 
 
 </div>
-
+<br />
 
 
 
