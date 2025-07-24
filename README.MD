@@ -87,7 +87,7 @@
 
 
 <p align="center">
-  🎓 <i><b><span color="merko">Currently Pursuing:</span></b> Master of Computer Application (MCA)</i><br />
+  🎓 <i><b><span color="blue">Currently Pursuing:</span></b> Master of Computer Application (MCA)</i><br />
   💻 <i>I <b>love</b> to learn <u>new technologies</u> and <u>frameworks</u></i><br />
   🧑‍💼 <b>I’m currently a freelancer</b> working as a <span style="color:#2b6cb0"><b>Python developer</b></span>
 </p>
