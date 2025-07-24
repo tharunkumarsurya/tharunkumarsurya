@@ -60,10 +60,11 @@
 
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/main/assets/tharun's_Resume.pdf" download="Tharun_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download-Resume-dark?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume PDF">
+  <a href="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/main/assets/tharun_resume.pdf" download="Tharun_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download-Resume-00008B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume PDF">
   </a>
 </p>
+
 
 
 <hr />
