@@ -74,12 +74,9 @@
 
 
 
-
-
-<br />
 <!-- about me -->
 <h3 align="center">
-  <i>Hi, I'm <b>Tharun Kumar R G</b></i> <br>
+  <i>Hi, I'm <b>Tharun Kumar R G</b></i> <br />
   <i>Web Developer</i> / <i>Coder</i> / <i>Data Scientist</i> / <i>Python Programmer</i> / <i>UI/UX Designer</i> / <i>AWS Cloud</i> 💻<br>
   <i>Learner</i> 👨‍💻 & <i>Gamer</i> 🦸‍♂️ from <i>India</i> IN
 </h3>
