@@ -205,10 +205,12 @@
 
 <div align="center">
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=tharunkumarsurya&theme=green_nur&hide_border=false&border_radius=10" 
-    alt="tharunkumarsurya GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=tharunkumarsurya&theme=green-nur&hide_border=false&border_radius=10"
+    alt="GitHub streak stats for tharunkumarsurya"
+  />
 </p>
+
 
 </div>
 
