@@ -206,7 +206,7 @@
 <div align="center">
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=tharunkumarsurya&theme=green&hide_border=false&border_radius=10"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=tharunkumarsurya&show_icons=true&locale=en&theme=chartreuse-dark&border_radius=10"
     alt="GitHub streak stats for tharunkumarsurya"
   />
 </p>
