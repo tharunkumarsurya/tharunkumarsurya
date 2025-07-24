@@ -289,7 +289,7 @@
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="tharunkumarsurya's repository stats - Book_recommender_system" />
     </picture>
   </a>
-<br />
+
 
   <!-- repo 4 -->
   <a align="right" href="https://github.com/tharunkumarsurya/Disny-clone.git" title="Disny-clone">
