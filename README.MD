@@ -157,7 +157,7 @@
     <img 
       src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-snake.svg" 
       alt="github-snake" 
-      style="background-color: purple; padding: 10px; border-radius: 10px;"
+      style="background-color: yellow; padding: 10px; border-radius: 10px;"
     />
   </picture>
   <br /><br /><br />
