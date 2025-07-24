@@ -60,7 +60,7 @@
 
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/main/assets/tharun's_resume.pdf" download="Tharun's_Resume.pdf">
+  <a href="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/main/assets/tharun's_Resume.pdf" download="Tharun's_Resume.pdf">
     <img src="https://img.shields.io/badge/Download-Resume-00008B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume PDF">
   </a>
 </p>
