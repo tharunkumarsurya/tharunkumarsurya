@@ -1,6 +1,5 @@
 
 <hr />
-<br /><br />
 <div align="center">
   <img src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/main/assets/banner.png" alt="Tharun Kumar Banner" />
 </div>
