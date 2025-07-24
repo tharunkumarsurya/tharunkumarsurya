@@ -78,18 +78,19 @@
 
 <br />
 <!-- about me -->
-<p align="center">
+<h3 align="center">
+  <i>Hi, I'm <b>Tharun Kumar R G</b></i> <br>
+  <sub>Web Developer</sub> / <sup>Coder</sup> / <sub>Data Scientist</sub> / <sup>Python Programmer</sup> / <sub>UI/UX Designer</sub> / <sup>AWS Cloud</sup> 💻<br>
+  <b>Learner</b> 👨‍💻 & <i>Gamer</i> 🦸‍♂️ from <b>India</b> 🇮🇳
+</h3>
 
-  Hi, I'm Tharun Kumar R G, Web Developer/Coder/Data Scientist/ Python Programmer/ UI/UX Designer/AWS Cloud 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
-  <br />
-  <br />
-  🎓 Currently Pursuing Master of Computer Application (MCA).
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I’m currently a freelancer working as a Python developer.
-  <br />
+<p align="center">
+  🎓 <i><b>Currently Pursuing:</b> Master of Computer Application (MCA)</i><br>
+  💻 <i>I <b>love</b> to learn <u>new technologies</u> and <u>frameworks</u></i><br>
+  🧑‍💼 <b>I’m currently a freelancer</b> working as a <span style="color:#2b6cb0"><b>Python developer</b></span>
 </p>
+
+
 
 <!-- social handles -->
 <div align="center"> 
