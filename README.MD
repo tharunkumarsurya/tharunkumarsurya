@@ -178,6 +178,17 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
 </picture>
 </div>
+<div align="center">
+  <h2>🟡 Pac-Man eating my contribution dots 🟡</h2>
+  <picture>
+    <img 
+      alt="Pac-Man Contribution Graph" 
+      src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg" 
+      style="max-width: 100%; height: auto;"
+    />
+  </picture>
+</div>
+
 
 
 <br />
