@@ -1,5 +1,4 @@
 <br />
-<br />
 <hr />
 <br /><br />
 <div align="center">
@@ -7,9 +6,9 @@
 </div>
 
 
-<br /><br />
+<br />
 <hr />
-<br /><br />
+<br />
 
 
 
