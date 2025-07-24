@@ -80,8 +80,8 @@
 <!-- about me -->
 <h3 align="center">
   <i>Hi, I'm <b>Tharun Kumar R G</b></i> <br>
-  <sub>Web Developer</sub> / <sup>Coder</sup> / <sub>Data Scientist</sub> / <sup>Python Programmer</sup> / <sub>UI/UX Designer</sub> / <sup>AWS Cloud</sup> 💻<br>
-  <b>Learner</b> 👨‍💻 & <i>Gamer</i> 🦸‍♂️ from <b>India</b> 🇮🇳
+  <sub>Web Developer</sub> / <sub>Coder</sub> / <sub>Data Scientist</sub> / <sub>Python Programmer</sub> / <sub>UI/UX Designer</sub> / <sub>AWS Cloud</sub> 💻<br>
+  <i>Learner</i> 👨‍💻 & <i>Gamer</i> 🦸‍♂️ from <i>India</i> 🇮🇳
 </h3>
 
 <p align="center">
