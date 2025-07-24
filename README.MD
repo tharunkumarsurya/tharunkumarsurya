@@ -79,8 +79,10 @@
   <i>Hi, I'm <b>Tharun Kumar R G</b></i> 
   <br />
   <i>Web Developer</i> / <i>Coder</i> / <i>Data Scientist</i> / <i>Python Programmer</i> / <i>UI/UX Designer</i> / <i>AWS Cloud</i> 💻<br />
-  <i>Learner</i> 👨‍💻 & <i>Gamer</i> 🦸‍♂️ from 🇮🇳
+  <i>Learner</i> 👨‍💻 & <i>Gamer</i> 🦸‍♂️ from 
+  <img src="https://cdn-icons-png.flaticon.com/128/323/323329.png" alt="Indian Flag" width="24" height="24"/>
 </h3>
+
 
 <p align="center">
   🎓 <i><b>Currently Pursuing:</b> Master of Computer Application (MCA)</i><br />
