@@ -88,7 +88,7 @@
 </p>
 
 
-
+<hr />
 <!-- social handles -->
 <div align="center"> 
 <!-- insta -->
