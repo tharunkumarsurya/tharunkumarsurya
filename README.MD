@@ -170,6 +170,40 @@
 
 
 
+<div align="center">
+  <h2>🟡 Pac-Man eating my contribution dots 🟡</h2>
+  
+  <picture>
+    <!-- Dark mode support -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-pacman-dark.svg"
+    >
+    
+    <!-- Light mode support -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-pacman.svg"
+    >
+    
+    <!-- Fallback image -->
+    <img 
+      alt="Pac-Man Contribution Graph" 
+      src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-pacman.svg" 
+      style="max-width: 100%; height: auto;" 
+    />
+  </picture>
+</div>
+
+<br />
+<br />
+
+<hr />
+
+
+
+
+
 
 <!-- stats -->
 
