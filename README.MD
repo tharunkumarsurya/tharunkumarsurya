@@ -186,7 +186,7 @@
 <div align="center">
   <p align="center">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&layout=compact&theme=default&title_color=00ff00&text_color=00cc00&bg_color=0d1117" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarsurya&layout=compact&show_icons=true&locale=en&theme=chartreuse-dark" 
          alt="tharunkumarsurya" />
   </p>
 </div>
