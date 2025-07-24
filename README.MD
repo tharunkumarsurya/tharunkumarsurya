@@ -203,6 +203,7 @@
        alt="tharunkumarsurya" />
 </p>
 </div>
+<br />
 
 <div align="center">
 <p align="center">
@@ -264,6 +265,7 @@
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=mywebsite&theme=graywhite&border_radius=10.0" alt="tharunkumarsurya's repository stats - 3D-Portfolio_mywebsite" />
     </picture>
   </a>
+<br />
 
   <!-- repo 2 -->
   <a align="left" href="https://github.com/tharunkumarsurya/coturn_networking.git" title="coturn_networking">
@@ -285,6 +287,7 @@
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="tharunkumarsurya's repository stats - Book_recommender_system" />
     </picture>
   </a>
+<br />
 
   <!-- repo 4 -->
   <a align="right" href="https://github.com/tharunkumarsurya/Disny-clone.git" title="Disny-clone">
