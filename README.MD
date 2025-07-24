@@ -11,7 +11,7 @@
 
 <!-- profile view count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=tharunkumarsurya">
-
+<br />
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
