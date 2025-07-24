@@ -207,7 +207,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=default&hide_border=false&border_radius=10" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=green_nur&hide_border=false&border_radius=10" 
     alt="tharunkumarsurya GitHub Streak" />
 </p>
 
