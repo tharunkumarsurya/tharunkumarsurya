@@ -206,7 +206,7 @@
 <div align="center">
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=tharunkumarsurya&theme=green_nur&hide_border=false&border_radius=10" 
+    src="https://streak-stats.demolab.com/?user=tharunkumarsurya&theme=green_nur&hide_border=false&border_radius=10" 
     alt="tharunkumarsurya GitHub Streak" />
 </p>
 
