@@ -80,7 +80,8 @@
   <br />
   <i>Web Developer</i> / <i>Coder</i> / <i>Data Scientist</i> / <i>Python Programmer</i> / <i>UI/UX Designer</i> / <i>AWS Cloud</i> 💻<br />
   <i>Learner</i> 👨‍💻 & <i>Gamer</i> 🦸‍♂️ from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" alt="India" width="36" height="24" />
+<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="30" height="20" />
+
 </h3>
 
 
