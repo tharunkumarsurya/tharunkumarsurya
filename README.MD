@@ -3,11 +3,7 @@
   <img src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/main/assets/banner.png" alt="Tharun Kumar Banner" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
-</picture>
+
 
 <hr />
 
@@ -209,9 +205,9 @@
 
 <div align="center">
 
-  <p align="center" style="background-color: white; padding: 10px; border-radius: 15px; display: inline-block; box-shadow: 0 0 15px rgba(255,255,255,0.5);">
+  <p align="center" style="background-color: #ffffff; padding: 15px; border-radius: 20px; display: inline-block; box-shadow: 0 0 25px rgba(0, 255, 0, 0.3); border: 2px solid #00cc44;">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=github-dark&hide_border=false&border_radius=6" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=default&hide_border=true&border_radius=10" 
       alt="tharunkumarsurya GitHub Streak" />
   </p>
 
