@@ -205,11 +205,12 @@
 
 <div align="center">
 
-  <p align="center" style="background-color: #ffffff; padding: 15px; border-radius: 20px; display: inline-block; box-shadow: 0 0 25px rgba(0, 255, 0, 0.3); border: 2px solid #00cc44;">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=default&hide_border=true&border_radius=10" 
-      alt="tharunkumarsurya GitHub Streak" />
-  </p>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumarsurya&theme=default&hide_border=false&border_radius=10" 
+    alt="tharunkumarsurya GitHub Streak" />
+</p>
+
 
 </div>
 
