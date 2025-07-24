@@ -266,7 +266,7 @@
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=mywebsite&theme=graywhite&border_radius=10.0" alt="tharunkumarsurya's repository stats - 3D-Portfolio_mywebsite" />
     </picture>
   </a>
-<br />
+
 
   <!-- repo 2 -->
   <a align="left" href="https://github.com/tharunkumarsurya/coturn_networking.git" title="coturn_networking">
