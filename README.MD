@@ -164,6 +164,7 @@
 
 
 <!-- snake graph -->
+<br />
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
@@ -178,7 +179,7 @@
   </picture>
   <br /><br /><br />
 </div>
-
+<br />
 
 
   <hr />
