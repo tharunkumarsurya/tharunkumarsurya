@@ -178,7 +178,7 @@
     />
   </picture>
 
-  <br /><br />
+
 </div>
 <br />
 
