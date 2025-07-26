@@ -164,7 +164,7 @@
 
 
 <!-- snake graph -->
-<br />
+
 <div align="center">
   <h2>🐍 Snake eating my contributions 🐍</h2>
   <picture>
