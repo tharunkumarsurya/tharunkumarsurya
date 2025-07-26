@@ -168,13 +168,11 @@
 <div align="center">
   <h2>🐍 Snake eating my contributions 🐍</h2>
   <picture>
-    <source media="(prefers-color-scheme: merko)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: merko), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-snake.svg" />
     <img 
       src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-snake.svg" 
-      alt="github-snake" 
-      style="background-color: dark; padding: 10px; border-radius: 10px;"
-    />
+      alt="GitHub Contribution Snake" />
   </picture>
 </div>
 <br />
