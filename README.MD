@@ -1,4 +1,7 @@
 
+<a href="https://github.com/mfts/tharunkumarsurya/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mfts/tharunkumarsurya" />
+</a>
 <hr />
 <div align="center">
   <img src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/main/assets/banner.png" alt="Tharun Kumar Banner" />
