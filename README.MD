@@ -1,16 +1,13 @@
-  ### Leetcode
-  <div align="center">
+### Leetcode
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/tharunkumarsurya?theme=auto&font=baloo&extension=null" alt="LeetCode Stats"/>
+</div>
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/tharunkumarsurya?theme=auto&font=baloo&extension=null)
+### Codeforces
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tharunkumarsurya" alt="Codeforces Stats"/>
+</div>
 
-  </div>
-
-  ### Codeforces
-  <div align="center">
-
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tharunkumarsurya)
-
-  </div>
 
 <hr />
 <div align="center">
