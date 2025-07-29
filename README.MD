@@ -167,7 +167,6 @@
 <!-- snake graph -->
 
 <div align="center">
-<br /><br />
   <h2>🐍 Snake eating my contributions 🐍</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/github-contribution-grid-snake-dark.svg" />
@@ -178,7 +177,7 @@
       style="background-color: dark; padding: 10px; border-radius: 10px;"
     />
   </picture>
-<br /><br />
+  
 </div>
 
   <hr />
