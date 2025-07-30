@@ -141,20 +141,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
       <!-- first row -->
-    <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://skillicons.dev/icons?i=vscode,python,react,git,html,css,javascript,ts,tailwind,anaconda,django&theme=dark" 
-  />
-  <source 
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-    srcset="https://skillicons.dev/icons?i=vscode,python,react,git,html,css,javascript,ts,tailwind,anaconda,django&theme=light" 
-  />
-  <img 
-    src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,tailwind,figma,threejs,vscode&theme=light" 
-    alt="skills" 
-  />
-</picture>
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=Cvscode%2Cpython%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Canaconda%2Cdjango&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=Cvscode%2Cpython%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cnaconda%2Cdjango&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+        </picture>
 
 
           <br />
