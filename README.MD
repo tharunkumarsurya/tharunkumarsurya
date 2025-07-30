@@ -142,12 +142,20 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
     <picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://skillicons.dev/icons?i=vscode,python,react,git,html,css,javascript,ts,tailwind,anaconda,django&theme=dark" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-          srcset="https://skillicons.dev/icons?i=vscode,python,react,git,html,css,javascript,ts,tailwind,anaconda,django&theme=light" />
-  <img src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,tailwind,figma,threejs,vscode&theme=light" alt="skills" />
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://skillicons.dev/icons?i=vscode,python,react,git,html,css,javascript,ts,tailwind,anaconda,django&theme=dark" 
+  />
+  <source 
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    srcset="https://skillicons.dev/icons?i=vscode,python,react,git,html,css,javascript,ts,tailwind,anaconda,django&theme=light" 
+  />
+  <img 
+    src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,tailwind,figma,threejs,vscode&theme=light" 
+    alt="skills" 
+  />
 </picture>
+
 
           <br />
           <!-- second row -->
