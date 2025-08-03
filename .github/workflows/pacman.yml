@@ -4,12 +4,7 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+  workflow_dispatch:   # Run manually for debugging
 
 jobs:
   generate:
@@ -25,8 +20,14 @@ jobs:
         with:
           python-version: 3.x
 
+      - name: Debug: Show current files
+        run: ls -R
+
       - name: Run Pac-Man SVG generator
-        run: python generatorpacman.py
+        run: |
+          python generate_pacman.py
+          echo "---- Dist folder after generation ----"
+          ls -R dist || echo "Dist folder missing!"
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
