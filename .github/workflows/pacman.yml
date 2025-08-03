@@ -25,7 +25,7 @@ jobs:
 
       - name: Run Pac-Man SVG generator
         run: |
-          python generate_pacman.py
+          python generatorpacman.py
           echo "---- Dist folder after generation ----"
           ls -R dist || echo "Dist folder missing!"
 
