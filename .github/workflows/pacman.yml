@@ -1,4 +1,4 @@
-name: generate pacman-animation
+name: generate pacman animation
 
 permissions:
   contents: write
@@ -17,22 +17,18 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout repo
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # Step 2: Generate Pac-Man animation (replace with forked action)
-      - name: generate github-contribution-grid-pacman.svg
-        uses: tharunkumarsurya/pacman-contrib-graph@v1
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          github_user_name: tharunkumarsurya
-          outputs: |
-            dist/github-contribution-grid-pacman.svg
-            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          python-version: 3.x
 
-      # Step 3: Push to output branch
-      - name: push github-contribution-grid-pacman.svg to the output branch
+      - name: Run Pac-Man SVG generator
+        run: python generate_pacman.py
+
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
