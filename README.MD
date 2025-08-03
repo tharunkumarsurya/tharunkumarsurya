@@ -24,32 +24,31 @@
 
 
 
-
 <p align="center">
 
   <!-- GitHub Stars -->
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/tharunkumarsurya/tharunkumarsurya?style=social" alt="GitHub stars" />
+  <a href="https://github.com/tharunkumarsurya/Disneyplus-Clone/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/tharunkumarsurya/Disneyplus-Clone?style=social" alt="GitHub stars" />
   </a>
 
   <!-- GitHub Forks -->
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/tharunkumarsurya/tharunkumarsurya?style=social" alt="GitHub forks" />
+  <a href="https://github.com/tharunkumarsurya/Disneyplus-Clone/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/tharunkumarsurya/Disneyplus-Clone?style=social" alt="GitHub forks" />
   </a>
 
   <!-- GitHub Issues -->
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/tharunkumarsurya/tharunkumarsurya" alt="GitHub issues" />
+  <a href="https://github.com/tharunkumarsurya/Disneyplus-Clone/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/tharunkumarsurya/Disneyplus-Clone" alt="GitHub issues" />
   </a>
 
   <!-- GitHub Contributors -->
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/github/contributors/tharunkumarsurya/tharunkumarsurya?color=blue" alt="GitHub contributors" />
+  <a href="https://github.com/tharunkumarsurya/Disneyplus-Clone/graphs/contributors" target="_blank">
+    <img src="https://img.shields.io/github/contributors/tharunkumarsurya/Disneyplus-Clone?color=blue" alt="GitHub contributors" />
   </a>
 
   <!-- Last Commit -->
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/tharunkumarsurya/tharunkumarsurya" alt="Last Commit" />
+  <a href="https://github.com/tharunkumarsurya/Disneyplus-Clone/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/tharunkumarsurya/Disneyplus-Clone" alt="Last Commit" />
   </a>
 
   <!-- Sponsor Button -->
