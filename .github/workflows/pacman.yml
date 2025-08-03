@@ -22,7 +22,7 @@ jobs:
 
       # Step 2: Generate Pac-Man animation (replace with forked action)
       - name: generate github-contribution-grid-pacman.svg
-        uses: your-username/pacman-contrib-graph@v1
+        uses: tharunkumarsurya/pacman-contrib-graph@v1
         with:
           github_user_name: tharunkumarsurya
           outputs: |
