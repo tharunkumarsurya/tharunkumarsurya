@@ -165,20 +165,36 @@
 
 
 <!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: merko)" srcset="https://github.com/tharunkumarsurya/tharunkumarsurya/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: merko), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/tharunkumarsurya/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/tharunkumarsurya/tharunkumarsurya/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
+
+  <hr />
 
 <div align="center">
-  <h2> PACMAN eating my contributions </h2><br />
+<h2>🟡 Pac-Man eating my contribution dots 🟡</h2>
+<br />
+<br />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tharunkumarsurya/tharunkumarsurya/output/pacman-contribution-graph.svg">
 </picture>
-  
+
+ <br />
+  <br />
+  <br />
+
 </div>
-
-<br />  <hr />
-
-
 
 
 
