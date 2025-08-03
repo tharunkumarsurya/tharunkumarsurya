@@ -27,7 +27,7 @@
 <p align="center">
 
   <!-- GitHub Stars -->
-  <a href="https://github.com/tharunkumarsurya/Disneyplus-Clone/stargazers" target="_blank">
+  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/tharunkumarsurya/Disneyplus-Clone?style=social" alt="GitHub stars" />
   </a>
 
