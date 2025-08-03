@@ -26,7 +26,7 @@ jobs:
           python-version: 3.x
 
       - name: Run Pac-Man SVG generator
-        run: python generate_pacman.py
+        run: python generatorpacman.py
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
