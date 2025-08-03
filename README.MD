@@ -22,33 +22,33 @@
 
 
 <p align="center">
-  
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/stargazers">
+
+  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/tharunkumarsurya/tharunkumarsurya?style=social" alt="GitHub stars" />
   </a>
-  
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/network">
+
+  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/network" target="_blank">
     <img src="https://img.shields.io/github/forks/tharunkumarsurya/tharunkumarsurya?style=social" alt="GitHub forks" />
   </a>
-  
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/issues">
+
+  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/issues" target="_blank">
     <img src="https://img.shields.io/github/issues/tharunkumarsurya/tharunkumarsurya" alt="GitHub issues" />
   </a>
-  
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/graphs/contributors">
+
+  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/graphs/contributors" target="_blank">
     <img src="https://img.shields.io/github/contributors/tharunkumarsurya/tharunkumarsurya?color=blue" alt="GitHub contributors" />
   </a>
-  
-  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/commits">
+
+  <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/commits/main" target="_blank">
     <img src="https://img.shields.io/github/last-commit/tharunkumarsurya/tharunkumarsurya" alt="Last Commit" />
   </a>
-  
-  <a href="https://github.com/sponsors/tharunkumarsurya">
+
+  <a href="https://github.com/sponsors/tharunkumarsurya" target="_blank">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=flat-square&logo=github" alt="Sponsor" />
   </a>
 
 </p>
-
+s
 
 
 <hr />
