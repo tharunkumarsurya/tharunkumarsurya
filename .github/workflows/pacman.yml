@@ -4,7 +4,7 @@ permissions:
   contents: write
 
 on:
-  workflow_dispatch:   # Run manually for debugging
+  workflow_dispatch:   # Run manually for debuggings
 
 jobs:
   generate:
