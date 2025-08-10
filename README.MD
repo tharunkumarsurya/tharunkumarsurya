@@ -309,7 +309,7 @@
     </picture>
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+
 <!-- second row -->
 <div width="100%" align="center">
 <br />
