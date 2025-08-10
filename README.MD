@@ -301,11 +301,11 @@
 
 
   <!-- repo 2 -->
-  <a align="left" href="https://github.com/tharunkumarsurya/coturn_networking.git" title="coturn_networking">
+  <a align="left" href="https://github.com/tharunkumarsurya/ML_Phishing_URL.git" title="ML_Phishing_URL">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=coturn_networking&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=coturn_networking&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="tharunkumarsurya's repository stats - coturn_networking" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=ML_Phishing_URL&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=ML_Phishing_URL&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=ML_Phishing_URL&theme=graywhite&border_radius=10" alt="tharunkumarsurya's repository stats - ML_Phishing_URL" />
     </picture>
   </a>
 </div>
@@ -314,11 +314,11 @@
 <div width="100%" align="center">
 <br />
   <!-- repo 3 -->
-  <a align="left" href="https://github.com/tharunkumarsurya/Book_Recommender_System.git" title="Book_recommender_system">
+  <a align="left" href="https://github.com/tharunkumarsurya/ML-Book_recommender-system.git" title="Book_recommender_system">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=Book_recommender_system&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=Book_recommender_system&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="tharunkumarsurya's repository stats - Book_recommender_system" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=Book_recommender_system&theme=graywhite&border_radius=10" alt="tharunkumarsurya's repository stats - Book_recommender_system" />
     </picture>
   </a>
 
