@@ -318,7 +318,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=3D-Portfolio_mywebsite&theme=react&border_color=61dafb&border_radius=10.0" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=3D-Portfolio_mywebsite&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=ML_Book_Recommender_System&theme=graywhite&border_radius=10.0" alt="tharunkumarsurya's repository stats - 3D-Portfolio_mywebsite" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=ML_Book_Recommender_System&theme=graywhite&border_radius=10.0" alt="tharunkumarsurya's repository stats - ML_Book_Recommender_System" />
     </picture>
   </a>
 
