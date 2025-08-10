@@ -314,11 +314,11 @@
 <div width="100%" align="center">
 <br />
   <!-- repo 3 -->
-   <a align="right" href="https://github.com/tharunkumarsurya/ML-Book_recommender-system.git" title="ML_Book_Recommender_system">
+   <a align="right" href="https://github.com/tharunkumarsurya/Food-Analysis.git" title="Food-Analysis">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=mywebsite&theme=graywhite&border_radius=10.0" alt="tharunkumarsurya's repository stats - ML_Book_Recommender_system" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=Food-Analysis&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=Food-Analysis&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tharunkumarsurya&repo=Food-Analysis&theme=graywhite&border_radius=10" alt="tharunkumarsurya's repository stats - Food-Analysis" />
     </picture>
   </a>
 
