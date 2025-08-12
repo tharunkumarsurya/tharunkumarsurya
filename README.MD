@@ -144,7 +144,7 @@
 
 
 <!-- portfolio -->
- <a href="https://tharunsuryaportfolio.netlify.app" target="_blank">
+ <a href="https://tharunkumarsurya.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
@@ -351,7 +351,7 @@
 <hr />
 
 <p align="center">
-  <a href="https://tharunsuryaportfolio.netlify.app" target="_blank">
+  <a href="https://tharunkumarsurya.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%91%89%20Visit%20My%20Portfolio%20%F0%9F%91%88-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
