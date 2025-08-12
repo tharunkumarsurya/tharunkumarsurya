@@ -43,7 +43,7 @@
 
   <!-- GitHub Contributors -->
   <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/github/contributors/tharunkumarsurya/Disneyplus-Clone?color=blue" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/contributors/tharunkumarsurya/tharunkumarsurya?color=blue" alt="GitHub contributors" />
   </a>
 
   <!-- Last Commit -->
