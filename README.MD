@@ -28,17 +28,17 @@
 
   <!-- GitHub Stars -->
   <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/tharunkumarsurya/Disneyplus-Clone?style=social" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/tharunkumarsurya/tharunkumarsurya?style=social" alt="GitHub stars" />
   </a>
 
   <!-- GitHub Forks -->
   <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/tharunkumarsurya/Disneyplus-Clone?style=social" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/forks/tharunkumarsurya/tharunkumarsurya?style=social" alt="GitHub forks" />
   </a>
 
   <!-- GitHub Issues -->
   <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/tharunkumarsurya/Disneyplus-Clone" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/issues/tharunkumarsurya/tharunkumarsurya" alt="GitHub issues" />
   </a>
 
   <!-- GitHub Contributors -->
@@ -48,7 +48,7 @@
 
   <!-- Last Commit -->
   <a href="https://github.com/tharunkumarsurya/tharunkumarsurya/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/tharunkumarsurya/Disneyplus-Clone" alt="Last Commit" />
+    <img src="https://img.shields.io/github/last-commit/tharunkumarsurya/tharunkumarsurya" alt="Last Commit" />
   </a>
 
   <!-- Sponsor Button -->
