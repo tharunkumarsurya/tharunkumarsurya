@@ -88,7 +88,7 @@
 <hr />
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://tharunkumarsurya.netlify.app/">
     <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9A%80Visit%20Live%20Site%F0%9F%9A%80&color=000000&height=60&gradientType=linear&direction=to%20left&duration=3s&template=pride-rainbow" alt="🚀 Visit Live Site 🚀" />
   </a>
 </p>
