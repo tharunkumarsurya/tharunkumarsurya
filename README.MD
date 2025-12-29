@@ -233,10 +233,6 @@
 </div>
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkumarsurya&layout=compact&theme=chartreuse-dark" />
-</p>
-
 
 
 
